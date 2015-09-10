@@ -1,3 +1,11 @@
+# Scaloid
+bin/
+gen/
+.idea*/
+build.xml
+local.properties
+proguard-*.txt
+
 *.class
 *.log
 
